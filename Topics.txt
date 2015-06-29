@@ -1,0 +1,42 @@
+List of topics to be discussed in this blog
+
+Embedded System definition
+Microprocessor vs Microcontroller
+Von-Neumann architecture vs Harvard architecture
+Overview of Microprocessor – 8085 (useful links)
+Overview of Microcontroller – 8051(useful links)
+Processor/Controller selection procedure
+Programming language ‘C” vs Assembly
+Programming environment – Keil Compiler (let us use keil for study)
+First program in 8051
+I/O Port
+Interrupts
+Timers
+Serial Port
+Usage of “volatile” keyword
+Endian type
+Coding guidelines for Embedded System
+Introduction to Device drivers (As we have seen about the peripherals, let us slowly move to device driver section)
+Need for device driver
+Device driver design
+Boot up code
+Debugging techiniques
+Stack operation
+Writing Interrupt service routine
+RTOS Basics
+Context switching
+Mutex & Binary mutex
+Semaphore
+Priority inversion
+Priority inheritance
+Deadlock
+Reentrant functions
+Critical section
+Static Memory allocation
+Combine all to make a RTOS
+ARM processor basics
+Points to take care while porting code from 8 bit to 16/32 bit processor or vice-versa
+
+List is not end… i will included further more topics in the list. Plan to give some popular interview questions post in between these topics.
+
+Give your comments and if you feel to add any other topic add it in comments section, we can include it for our discussion

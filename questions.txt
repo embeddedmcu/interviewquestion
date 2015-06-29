@@ -1,0 +1,29 @@
+
+C Reference card
+
+My blogs
+https://embeddedbasics.wordpress.com/  (started sharing questions)
+http://blog.connectedmcu.com/          (for my ideas, based on github)
+
+Basic 'C' interview questions
+
+what is qualifiers?
+What is storage class? explain with example
+Explain about preprocessor?
+Write a macro with two argument A, B. where A is byte and B specifies a bit position of the byte. macro should clear the particular bit position in the given byte?
+Write prototype for a function pointer and array of function pointers?
+Explain the following definition?
+
+char   c;
+char  *pc;
+const char  *pcc;
+char const  *pcc2;
+char * const   cpc;
+const char * const   cpcc;
+
+What is dangling pointers?
+What is wild pointers?
+Explain different memory section in processor?
+Explain dynamic allocation memory?
+In which memory section dynamically allocated memory is located?
+what are possible problem in dynamic memory allocation?
