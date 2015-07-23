@@ -1,0 +1,13 @@
+
+General
+http://www.barrgroup.com/Embedded-Systems/How-To
+https://blog.feabhas.com/
+
+Mutex & Semaphore
+http://stackoverflow.com/questions/4039899/when-should-we-use-mutex-and-when-should-we-use-semaphore
+
+https://blog.feabhas.com/2009/09/mutex-vs-semaphores-%E2%80%93-part-1-semaphores/
+https://blog.feabhas.com/2009/09/mutex-vs-semaphores-%E2%80%93-part-2-the-mutex/
+https://blog.feabhas.com/2009/10/mutex-vs-semaphores-%E2%80%93-part-3-final-part-mutual-exclusion-problems/
+http://www.barrgroup.com/Embedded-Systems/How-To/RTOS-Mutex-Semaphore
+
